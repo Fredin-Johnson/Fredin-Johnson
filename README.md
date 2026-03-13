@@ -57,7 +57,3 @@ I’m happiest when logs are clean, secrets are safe, and the run is green ✅.
 - Ready for **daily schedules** (Actions or GCP)  
 - Secrets handled via env vars / Secret Manager (no secrets in code)
 
-**Run locally**
-```bash
-pip install -r requirements.txt
-python app.py
