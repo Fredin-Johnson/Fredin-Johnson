@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Fredin-Johnson/Fredin-Johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Fredin Johnson
 
-Here are some ideas to get you started:
+🚀 Python Developer | Automation | Cloud | Streamlit | GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- Python
+- Git & GitHub
+- Cloud Automation
+- PDF Generation (ReportLab)
+
+---
+
+## 📌 Projects
+- ✅ Leanworx Device Testing Automation
+- ✅ Scheduled Python Jobs (GCP / GitHub Actions)
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Fredin-Johnson
+- LinkedIn: https://linkedin.com/in/yourprofile
