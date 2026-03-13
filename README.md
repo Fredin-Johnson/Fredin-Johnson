@@ -21,4 +21,4 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/Fredin-Johnson
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://linkedin.com/in/fredinjohnson
