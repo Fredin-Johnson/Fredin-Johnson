@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <h1 align="center">Hey, I’m Fredin 👋</h1>
 <p align="center">
-  <b>Data Analyst • Python • Automation • Cloud • PDF Workflows • Streamlit</b><br/>
+  <b>Data Analyst • Python • Automation • Cloud • Workflows • Streamlit</b><br/>
   Turning repeatable tasks into reliable systems — one script at a time.
 </p>
 
