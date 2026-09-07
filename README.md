@@ -95,7 +95,7 @@ A Python-based application for managing data-processing workflows, customer conf
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Analytics & BI
 
